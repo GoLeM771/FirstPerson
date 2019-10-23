@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpiderNavigation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Repositories\src\PluginTest\Intermediate\Build\Win64\PluginTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Development\SpiderNavigation\Module.SpiderNavigation.cpp.obj"
+"D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Development\SpiderNavigation\Module.SpiderNavigation.gen.cpp.obj"
+"D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Development\SpiderNavigation\Default.rc2.res"
+/OUT:"D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Development\SpiderNavigation\UE4Editor-SpiderNavigation.lib"
+/INCLUDE:IMPLEMENT_MODULE_SpiderNavigation

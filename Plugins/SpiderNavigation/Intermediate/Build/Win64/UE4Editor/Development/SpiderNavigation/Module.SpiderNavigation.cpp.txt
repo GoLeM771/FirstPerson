@@ -1,0 +1,61 @@
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Development\SpiderNavigation\Definitions.SpiderNavigation.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavGridBuilder.cpp
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Public\SpiderNavGridBuilder.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime/Engine/Classes/Components/BoxComponent.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+d:\repositories\src\plugintest\plugins\spidernavigation\source\spidernavigation\public\SpiderNavGridTracer.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime/Engine/Classes/Components/SphereComponent.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Inc\SpiderNavigation\SpiderNavGridTracer.generated.h
+d:\repositories\src\plugintest\plugins\spidernavigation\source\spidernavigation\public\SpiderNavPoint.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Inc\SpiderNavigation\SpiderNavPoint.generated.h
+d:\repositories\src\plugintest\plugins\spidernavigation\source\spidernavigation\public\SpiderNavPointEdge.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Inc\SpiderNavigation\SpiderNavPointEdge.generated.h
+d:\repositories\src\plugintest\plugins\spidernavigation\source\spidernavigation\public\SpiderNavGridSaveGame.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/SaveGame.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SaveGame.generated.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Inc\SpiderNavigation\SpiderNavGridSaveGame.generated.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\EpicGames\UE_4.22\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+d:\epicgames\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\EpicGames\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Inc\SpiderNavigation\SpiderNavGridBuilder.generated.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Public\SpiderNavigationModule.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavGridSaveGame.cpp
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavGridTracer.cpp
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavigation.cpp
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Public\SpiderNavigation.h
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+D:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Intermediate\Build\Win64\UE4Editor\Inc\SpiderNavigation\SpiderNavigation.generated.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavigationModule.cpp
+d:\repositories\src\plugintest\plugins\spidernavigation\source\spidernavigation\private\SpiderNavigationPrivate.h
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavPoint.cpp
+D:\Repositories\src\PluginTest\Plugins\SpiderNavigation\Source\SpiderNavigation\Private\SpiderNavPointEdge.cpp

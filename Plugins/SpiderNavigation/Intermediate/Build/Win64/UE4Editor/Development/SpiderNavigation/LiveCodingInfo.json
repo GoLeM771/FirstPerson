@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SpiderNavigation.cpp.obj": [
+			"SpiderNavGridBuilder.cpp.obj",
+			"SpiderNavGridSaveGame.cpp.obj",
+			"SpiderNavGridTracer.cpp.obj",
+			"SpiderNavigation.cpp.obj",
+			"SpiderNavigationModule.cpp.obj",
+			"SpiderNavPoint.cpp.obj",
+			"SpiderNavPointEdge.cpp.obj"
+		],
+		"Module.SpiderNavigation.gen.cpp.obj": [
+			"SpiderNavGridBuilder.gen.cpp.obj",
+			"SpiderNavGridSaveGame.gen.cpp.obj",
+			"SpiderNavGridTracer.gen.cpp.obj",
+			"SpiderNavigation.gen.cpp.obj",
+			"SpiderNavigation.init.gen.cpp.obj",
+			"SpiderNavPoint.gen.cpp.obj",
+			"SpiderNavPointEdge.gen.cpp.obj"
+		]
+	}
+}
